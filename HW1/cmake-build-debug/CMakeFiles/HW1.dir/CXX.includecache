@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ismaildeniz/Desktop/Bilkent/2021-2022 Fall/CS201/HW1/HW1/Cabinet.h
+iostream
+-
+Chemical.h
+C:/Users/ismaildeniz/Desktop/Bilkent/2021-2022 Fall/CS201/HW1/HW1/Chemical.h
+
+C:/Users/ismaildeniz/Desktop/Bilkent/2021-2022 Fall/CS201/HW1/HW1/Chemical.h
+iostream
+-
+
+C:/Users/ismaildeniz/Desktop/Bilkent/2021-2022 Fall/CS201/HW1/HW1/LabOrganizer.cpp
+iostream
+-
+LabOrganizer.h
+C:/Users/ismaildeniz/Desktop/Bilkent/2021-2022 Fall/CS201/HW1/HW1/LabOrganizer.h
+
+C:/Users/ismaildeniz/Desktop/Bilkent/2021-2022 Fall/CS201/HW1/HW1/LabOrganizer.h
+iostream
+-
+Cabinet.h
+C:/Users/ismaildeniz/Desktop/Bilkent/2021-2022 Fall/CS201/HW1/HW1/Cabinet.h
+
